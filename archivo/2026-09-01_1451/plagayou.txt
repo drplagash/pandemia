@@ -49,8 +49,8 @@ administrator
 test123
 Passw0rd
 passwd
-000000
 !QAZ2wsx
+000000
 111
 12
 gpon
@@ -103,7 +103,6 @@ admin1
 config
 super
 ubnt
-Host: 190.179.130.96:23
 P@$$w0rd
 pass123
 rock
@@ -111,6 +110,7 @@ support123
 vyos
 !Q2w3e4r
 123123123
+Host: 190.179.130.96:23
 P@ssw0rd123
 backup
 ftp
@@ -165,7 +165,6 @@ web123
 12345qwe
 1q2w3e4r5t6y
 ALC#FGU
-Accept: */*
 Huawei@123
 Pass1234
 elasticsearch
@@ -178,6 +177,7 @@ welcome
 1qaz@WSX3edc
 @abc123
 Aa123123
+Accept: */*
 Fireitup
 P@ssw0rd2026
 Password123!

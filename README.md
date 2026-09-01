@@ -10,7 +10,7 @@ Updated automatically, once a day.
 |---|---|---|
 | [`credenciales/usernames.txt`](credenciales/usernames.txt) | Unique usernames, most-attempted first | one per line |
 | [`credenciales/plagayou.txt`](credenciales/plagayou.txt) | Unique passwords, most-attempted first | one per line |
-| [`credenciales/combos-observados.txt`](credenciales/combos-observados.txt) | Real `username:password` pairs as they were actually attempted together (not a cross-product of the two lists above) | `user:pass`, one per line |
+| [`credenciales/combos.txt`](credenciales/combos.txt) | Real `username:password` pairs as they were actually attempted together (not a cross-product of the two lists above) | `user:pass`, one per line |
 
 `plagayou.txt` is a nod to `rockyou.txt` — same idea, different source: this one comes straight from live SSH/Telnet brute-force traffic, not a leaked database.
 
@@ -24,10 +24,10 @@ The dictionaries regenerate daily from the full event history (not incremental d
 
 ## Usage
 
-Straight `wordlist` format — drop any of these into Hydra, Medusa, John, Hashcat, or your tool of choice as-is. `combos-observados.txt` uses the `user:pass` convention (colon-separated).
+Straight `wordlist` format — drop any of these into Hydra, Medusa, John, Hashcat, or your tool of choice as-is. `combos.txt` uses the `user:pass` convention (colon-separated).
 
 ```bash
-hydra -C credenciales/combos-observados.txt ssh://target
+hydra -C credenciales/combos.txt ssh://target
 ```
 
 ## Disclaimer
