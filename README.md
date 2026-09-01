@@ -1,5 +1,7 @@
 # pandemia
 
+![pandemia](banner.png)
+
 Real-world credential dictionaries and attacker session logs, captured live from a controlled honeypot environment ([Oráculo SOC](https://github.com/drplagash)). No synthetic data, no scraped lists — every entry here was actually typed by a real attacker against a real (emulated) service.
 
 Updated automatically, every 12 hours.
