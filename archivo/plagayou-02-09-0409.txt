@@ -86,6 +86,7 @@ hi3518
 modzmodz
 qwe123456
 1qazxsw2
+Host: 190.179.130.96:23
 kali
 oracle
 postgres
@@ -93,6 +94,7 @@ qwer1234
 support123
 test1234
 www
+Host: 190.179.174.32:23
 Password
 operator
 ubnt
@@ -141,6 +143,7 @@ a
 A123456a
 Aa123456.
 Aa123456@
+Accept-Encoding: gzip
 Admin123!
 P@55w0rd
 Password123!
@@ -157,12 +160,14 @@ qazwsxedc
 ubuntu1234
 v2mprt
 web123
+zpz}ld	
 $4
 0987654321
 11111111
 12345qwe
 1q2w3e4r5t6y
 ALC#FGU
+Accept: */*
 Fireitup
 Huawei@123
 Pass1234
@@ -652,6 +657,7 @@ splunk
 steam123
 trustix
 worker123
+za	
 ﻿------fuck------
 !qaz@WSX
 0l0ctyQh243O63uD
@@ -666,6 +672,7 @@ worker123
 8ehomeasb
 @@@@
 Aa11223344
+Accept-Encoding: gzip, deflate
 Admin123!@#
 Azerty123
 DLKT20060205
@@ -921,6 +928,7 @@ Admin@12
 Admin@1234#
 Asd112211
 Asd123456
+C0stum3r_Un3
 Contabo2026
 Deploy@123
 Founder123
@@ -1238,10 +1246,13 @@ Asdf123!@#
 Asdf@123
 Changeme_123456
 Cisco
+Cisco
 Cisco@1234
 Cloud@1234
+Connection: keep-alive
 Datnguyentv.com
 Dell123456
+Host: 190.179.167.139:23
 Huawei12!@
 Jc123456
 Kermit123@
@@ -1324,6 +1335,7 @@ Test@123
 Test@1234
 Tigo2020*
 Ubuntu@123
+User-Agent: python-requests/2.6.0 CPython/2.7.5 Linux/3.10.0-1160.119.1.el7.x86_64
 User1
 User2
 User3
@@ -1360,6 +1372,7 @@ abc123@
 abc357
 abcde12345
 abuse
+admin
 admin.123
 admin11!!
 admin123###
@@ -1484,6 +1497,7 @@ tech@1234
 test.123
 test@1234
 testftp
+tigo@123
 toto
 user5
 user6
@@ -1713,6 +1727,7 @@ P@ss1234
 P@ssW0rd
 P@ssWord123
 P@ssw0rD
+P@ssw0rd
 P@ssw0rd!123
 P@ssw0rd!@#$
 P@ssw0rd001
@@ -1894,8 +1909,11 @@ c@1
 cc123456
 celeste
 cisc0
+cisc0
+cisco123
 cisco1234
 cisco12345
+cisco12345
 cloud123!
 code
 connect
@@ -1915,6 +1933,7 @@ ftp01
 ftp1
 ftpuser1
 gemini
+github.com PGET / HTTP/1.0
 h3c.com!
 hades
 harmony
@@ -1948,6 +1967,7 @@ p@$$w0rd
 p@55
 p@s5w0rd
 p@ssW0rd
+p@ssw0rd
 p@ssw0rd1
 p@ssw0rd@123
 pa$$word
@@ -2031,6 +2051,7 @@ testpass
 testpassword
 testtest
 theboss
+tigowifi
 ts3server
 tshell
 ubuntu123456
@@ -2637,6 +2658,7 @@ $vfr$5tgb
 123321qwe123
 123321qweewq
 123321qwerty
+1234
 1234!@#$%^
 1234!@#$asdf
 1234!@#Wsx
@@ -2667,6 +2689,7 @@ $vfr$5tgb
 1234.
 1234.Abcd
 1234.asd
+12345
 12345!@#$
 12345!@#$%
 12345!@#$%^&
@@ -2687,6 +2710,7 @@ $vfr$5tgb
 12345.qwert
 1234512345
 1234554321
+123456
 123456!@#
 123456!@#"
 123456!@#Asd
@@ -3094,6 +3118,7 @@ $vfr$5tgb
 1b2c3d4
 1gaz2wsx
 1mpl3m/3nt4.
+1mpl3m3nt4c10nB2B
 1password1
 1q!
 1q!@#
@@ -3789,6 +3814,7 @@ Admi@n1234567
 Admi@n1234567.
 AdmiN
 AdmiN123!
+Admin
 Admin!!
 Admin!*!
 Admin!.Com
@@ -4203,6 +4229,7 @@ Changeme123!@#
 Changeme123456
 Changeme@123
 Chrome.123
+Cisco123
 Cisco4321
 Cl13nt3s_OUT
 Cli3ntS3rver!
@@ -5005,6 +5032,7 @@ Passwd
 Passwd.
 Passwd2007
 PassworD
+Password
 Password!!
 Password!!@@##
 Password!.
@@ -5525,6 +5553,7 @@ R00tus3r!@#
 R00tuser
 RDP
 ROOT#@!
+RailTel@123
 Ranglm123456
 Rdp123
 Rebecc@12
@@ -5560,6 +5589,7 @@ Sales123
 Samsung123
 Samsung@
 San-Fran
+San-Fran
 Satanoff1
 Satanoff77
 Satanoff@123
@@ -5686,6 +5716,7 @@ System@12345
 System@54321
 Syt@123456
 Syt@123456.
+T3cn0qu1m1C452018
 T3cn0qu1m1c45
 Talent@789
 TeamViewer2012
@@ -5705,6 +5736,7 @@ Test2
 The@ter1234
 Tigo%2016
 Tigo2018**
+Tigo2020*
 Tigo202102
 Tigo2022
 Tigo2707
@@ -5740,6 +5772,7 @@ Unknown123
 Unknown@123
 User
 User!@#123
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
 User02
 User1234
 User1234!
@@ -6171,6 +6204,7 @@ admin@$%^#@!
 admin@0123456
 admin@1
 admin@12
+admin@123
 admin@123#
 admin@123.COM
 admin@123.com
@@ -6350,9 +6384,14 @@ ceshi00
 changeme!@#123
 changeme01
 changeme123!@#
+cisco
 cisco123!
+cisco123!
+cisco1234
 cisco123@
+cisco@123
 ciscosecure
+ciscosecure
 cloud12345
 cloud@123
 cloud@456
@@ -6786,6 +6825,7 @@ passw0rd@1234
 passwd!@
 passwd123
 passwd123456
+password
 password!
 password!!
 password!.
@@ -7045,6 +7085,7 @@ qwe~!@#
 r3dhat
 r3dhat123
 rP@ssw0rd123
+railtel@123
 rdp
 rebit@123
 redhatlinux
@@ -7221,6 +7262,7 @@ user_ip
 useradmin
 users
 usuario123
+vesT33RID+All
 vodk@123
 vps!@#123
 vps-123
@@ -7376,6 +7418,9 @@ zzzzzzAdm1n1strator33
 ~!@123
 ~!@123456
 ~!@qazwsx
+ busybox
+ system
+ xc3511
 !
 !!
 !!!
@@ -8269,6 +8314,7 @@ $etuP123
 $etuP1234567890
 $etup12345678
 $hare
+$imple.win#
 $oni
 $password
 $rfv$4rfv
@@ -8453,6 +8499,7 @@ $ystem$age
 0fficE1
 0ffice123
 0ipt141
+0ipt141
 0k.
 0k.,
 0neDirecti0ns
@@ -10537,6 +10584,7 @@ $ystem$age
 1h2o3d
 1jingting
 1kitty
+1mpl3m/3nt4.
 1nt3rn3t
 1nt3rn3t1
 1nt3rn3t1@#
@@ -10965,6 +11013,8 @@ $ystem$age
 1server
 1stella1
 1studiosh2
+1sw-streamwide
+1sw-tigogt
 1t2y3u
 1t2y3u5i
 1tW0rk$!!
@@ -11355,6 +11405,7 @@ $ystem$age
 999abc
 9@177dg
 9Apsm4ypXr
+9Apsm4ypXr
 9y3x5m2lj
 <3Vps<3
 ===
@@ -12647,6 +12698,8 @@ Admin12#$
 Admin12*
 Admin12+
 Admin12.
+Admin123
+Admin123!
 Admin123!!!
 Admin123!!**
 Admin123!!@*
@@ -12769,10 +12822,12 @@ Admin@11
 Admin@111
 Admin@1111.
 Admin@112233
+Admin@123
 Admin@123!
 Admin@12311
 Admin@123123
 Admin@1234.
+Admin@12345
 Admin@12345.
 Admin@123456!
 Admin@123456.
@@ -13324,9 +13379,11 @@ Buro!@
 Buro12
 Buro@!
 Bustamante2
+Bustamante2
 Bv1
 C$rv8ixFDF
 C0ll4b
+C0ll4b
 C0mplete
 C0mput3r
 C0mput3r!
@@ -13339,7 +13396,6 @@ C@123
 C@12345
 C@lt3ch$f
 C@rl@1
-CC06C6FE91
 CCm11
 CDE##3edc
 CDE#$3edc
@@ -13382,10 +13438,15 @@ China@123
 Chr0me12
 Chrome123!
 Cisc0123
+Cisc0123
 Cisco1
 Cisco123!
+Cisco123!
 Cisco1234
 Cisco12345
+Cisco12345
+Cisco@123
+Cl13nt3s_OUT
 Cli3nt!
 Cli3ntServer!
 ClientServer!
@@ -13618,6 +13679,7 @@ Fd123456
 Fern@ndo
 Fk@123456
 Flash343!
+Flash343!
 Football@123
 Formol1
 Formula123
@@ -13746,6 +13808,8 @@ Home2006
 Home2012
 Home55
 Host123
+Host: 190.179.172.17:23
+Host: 190.179.174.32
 Host@123
 Hp!123
 Hp!@#$
@@ -13793,6 +13857,7 @@ Huawei_1234
 Hx123456
 Hx@12345
 I@1
+IGARCIA040:Tigo2018**
 II@123
 INSPUR_GHJ
 INT-VM
@@ -13802,6 +13867,7 @@ Idexx123
 Iforg0t
 Iloveyou123
 Iloveyou@123
+Imp@2015
 Imprez@1
 Ina123
 Indexx123
@@ -13809,6 +13875,7 @@ India123
 India@123
 Information123
 Innova2018**
+Innova2018**
 Insert123!
 Install1
 Internet
@@ -13979,6 +14046,7 @@ M@ster!
 M@ster#
 M@ster123!@#
 MACadmin
+MACadmin
 MANAGER1
 MMM@123
 MNBVCXZ1qaz
@@ -14028,6 +14096,7 @@ Medic@l
 Mehdi1820
 Mercury1
 Merida1212
+Merida1212
 Mic@123
 Michael1
 Micr@$3700$
@@ -14067,6 +14136,7 @@ MyPassw0rd
 MyPassw0rd123
 Mypassword!
 Mypassword@123456
+N0v0.2020
 N3tw0rk!
 N5MIZCB5W19ONW
 N@1
@@ -16386,6 +16456,7 @@ Pos@123
 Pos@1234
 Power@123
 PowerEdgeSC1425
+PowerEdgeSC1425
 Power_shell
 Powesecrty$1
 Pp12345678
@@ -17467,6 +17538,7 @@ SeTup123
 Search@123
 Second2
 Secret
+Secret
 Security1
 Seddiq-123
 Senha#123
@@ -17575,6 +17647,7 @@ Signum1!
 Silvan@
 Sinopec#123
 Sistem@123
+Sistemas69
 Sj.1
 Sj@123
 Skynet98
@@ -17619,6 +17692,7 @@ Studio@!
 Studio@.
 Summer123!
 Suotos01!
+Suotos01!
 Super1
 Super@123
 Superm@n!@#
@@ -17678,6 +17752,7 @@ Syt@123456..
 Syt@1234566
 T3ST1
 T3ST123
+T3cn0qu1m1c45
 T3st123
 T@1
 T@123
@@ -17706,8 +17781,11 @@ Telecom@123
 Telecom@1234
 Telkom13
 Telmex2014$
+Telmex2014$
 Telmex2018$
+Telmex2018$
 Telmex_Col
+Telmex_Col
 Temp!
 Temp.123
 Temp123!
@@ -17738,6 +17816,16 @@ Testtest01
 TheDarkPass!
 Tianhe-2
 Tibco@123
+Tigo%2016
+Tigo2018**
+Tigo2019*
+Tigo202102
+Tigo2022
+Tigo2707
+Tigo@2019
+TigoAgo2022*
+Tigoago++19
+Tigocentro2020++
 Tintin@123
 Tj123456@
 Tj@123456
@@ -17903,6 +17991,7 @@ VpsP@ss0wrd
 Vps_123
 Vps_12345
 VqjuHhn4HM
+VqjuHhn4HM
 Vuong1
 Vwerty1234
 W!E
@@ -17932,6 +18021,7 @@ Wand12
 Wand1234
 Warp@1234567891
 Web@0063
+Web@0063
 Webhost1
 Wecome1234
 Welc0me
@@ -18031,6 +18121,7 @@ Words#1
 Work123
 Wq123456
 Wq@123
+Wrp$123456
 Ws123456
 Wsx123
 Wsx123456
@@ -18880,6 +18971,7 @@ admin1.
 admin10
 admin11
 admin111
+admin123
 admin123!!!
 admin123!@#$
 admin123!@*
@@ -18895,10 +18987,12 @@ admin123...
 admin123.0
 admin123123
 admin123321
+admin1234
 admin1234$
 admin1234+
 admin1234..
 admin12341234
+admin12345
 admin12345!@#$%
 admin12345*
 admin12345+
@@ -19085,6 +19179,7 @@ adobe1
 adobe123
 advsoporte123
 afe1b8d46a
+afe1b8d46a
 affair@123
 agave
 aistar123<>!N
@@ -19291,6 +19386,7 @@ b'\xd4\xc8\xdc\xc4\xda'
 b'\xdf\xd0\xca\xcd\xd2\xcf'
 b'\xe4\xca\xdb\x8b\x8c\x8f'
 b'\xf7\xee\xfd\xdf\xd3\xfe\xcd\xc9'
+b453ntear
 b@12
 b@123
 b@12345
@@ -19362,6 +19458,7 @@ c0ffe123
 c0mputer
 c0ntact.@
 c123
+c2@r0
 c@12
 c@123
 c@shier
@@ -19375,6 +19472,7 @@ camfrog*
 camila123
 canada123
 caonima123
+capacity
 cb_optics
 cba@1
 cba@12345
@@ -19411,6 +19509,7 @@ chyenne1
 cikampek3
 cim1
 cisc0123
+cisc0123
 cisco*123
 cisco12
 cita1234
@@ -19619,6 +19718,7 @@ eight8
 eii.cn
 ekip@123
 eldar123
+enable
 english123
 eric@123
 erigon
@@ -19692,6 +19792,7 @@ g0ld
 g@1
 g@1234
 gab123
+gac
 gainium
 garasi4
 garena.com
@@ -19852,6 +19953,7 @@ hy123456
 hz@163.*
 i@12
 iTeck2014$ubnt
+iTeck2014$ubnt
 i_x45<3
 ia8NU96NgHAcxvbO
 iant@123
@@ -19941,6 +20043,7 @@ jyj@123
 k23.cn
 k3admin
 k3dh7upnac
+k3dh7upnac
 k@123
 k@12345678
 kai.tang
@@ -22476,6 +22579,7 @@ redhat6
 redhat7
 redhat8
 redhat9
+reduno
 remote5
 remote7
 remoto2
@@ -22507,6 +22611,7 @@ rooot1234567
 rooot12345678
 rooot123456789
 rooot2
+root
 root!
 root!2012
 root!@#$
@@ -22521,6 +22626,7 @@ root.2012
 root0
 root00
 root00--
+root00--
 root01
 root123!@#
 root123#
@@ -22568,6 +22674,7 @@ sd@1234567
 sdf7asdf6asdg8df
 se7en-h0st#
 se7en@host
+secret
 secret pass
 sega156
 senat0r
@@ -22651,6 +22758,7 @@ software!1
 sohu.com
 songjian
 sophos
+soportecorp
 sp123456
 spectre
 spenser
@@ -22736,6 +22844,8 @@ szxc123
 szxdf!QAZ
 t-5
 t123456789
+t2ne751
+t2ne751s
 t3ST
 t3ST1
 t3ST123
@@ -22755,6 +22865,7 @@ teamspeak3
 tech@12345
 techno00
 techno00))
+tecnoquimicas
 teku
 telegram123
 temp01
@@ -22806,6 +22917,7 @@ testpass321
 testpass4321
 testuser01
 tetra
+tetra
 th@123
 thai@123
 theke01
@@ -22813,6 +22925,8 @@ thinking
 thissuck
 thomas1
 tiger1
+tigo+2000
+tigotigo1423
 time2go
 tm123456789!
 tmoss
@@ -22909,6 +23023,7 @@ vijay@123
 viktor1982
 vipul@123
 vkwU2fnKV7
+vkwU2fnKV7
 vllm
 vm1234
 vm@123
