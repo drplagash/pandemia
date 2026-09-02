@@ -49,6 +49,7 @@ elasticsearch
 jenkins
 hadoop
 trader
+GET / HTTP/1.1
 cloud
 odoo
 user0
@@ -127,6 +128,7 @@ mother
 worker
 *1
 AdminGPON
+OPTIONS rtsp://example.com RTSP/1.0
 ali
 crafty
 docker
@@ -293,6 +295,7 @@ admian
 angel
 anna
 avax
+b'\xcc\xd1\xd1\xca'
 bin
 btf
 christianna
@@ -470,6 +473,7 @@ tuan
 validator
 watanabe
 wayne
+GET /cgi-bin/authLogin.cgi HTTP/1.1
 abc
 abuse
 amit
@@ -535,10 +539,12 @@ xiao
 yellow
 zookeeper
 "??$
+GET /photo/gallery/ HTTP/1.1
 a1
 adm
 admire
 apm
+b'\x05\x04\x00\x01\x02\x80\x05\x01\x00\x03'
 brenda
 celeste
 chenxi
@@ -590,11 +596,14 @@ xrpl
 123456
 94jo3dkru4
 Admin2
+GET //admin/config.php HTTP/1.1
+GET /_asterisk/graph.php HTTP/1.1
 ROOT
 Root
 T3cn0qu1m1C452018
 T3cn0qu1m1C452018+ct511w4098h
 anza
+b'\xdf\xda\xd3\xd7\xd0'
 beam
 besu
 bittensor
@@ -667,6 +676,9 @@ zhenshan
 ADMIN
 ADMIN+ct511w4098h
 Flash343!
+GET /admin/assets/js/views/login.js HTTP/1.1
+GET /admin/views/config.php HTTP/1.1
+GET /assets HTTP/1.1
 IGARCIA040
 IGARCIA040+ct511w4098h
 LATAMGCMS
@@ -687,6 +699,7 @@ alertuser
 aluno
 api
 applmgr
+b'\xda\xdb\xd8\xdf\xcb\xd2\xca'
 bbgo
 bdms
 bitcoin
@@ -754,6 +767,7 @@ hms
 hpc
 implementaciones.win
 implementaciones.win+ct511w4098h
+invite
 jan
 jcalerog
 jcalerog+ct511w4098h

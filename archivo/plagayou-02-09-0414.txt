@@ -1898,6 +1898,7 @@ cisco1234
 cisco12345
 cloud123!
 code
+connect
 craft
 csserver
 dbs
@@ -3447,6 +3448,7 @@ $vfr$5tgb
 @wsxcde3
 @wsxzaq!
 @zerty!@#123
+A d m i n
 A!B@C#
 A!S@D#
 A-admin!
@@ -5627,6 +5629,7 @@ Service123
 Setup01
 Setup123
 Setup123456
+Setup@6
 Sh@d0w!@#
 Shadow@123
 Shark1445NE$T
@@ -7115,6 +7118,7 @@ server_123456
 servidor1
 setup123!
 setup123456!
+setup@123
 shift@123
 sj.1
 smart@123
@@ -8527,6 +8531,7 @@ $ystem$age
 12231223
 1225
 12281228
+123  nt ghat
 123!!!
 123!!@#321
 123!123
@@ -13420,6 +13425,24 @@ Cp@123456
 Cpwh@123&*()
 Crimson@123
 Cross tops
+Cseq: 1573
+Cseq: 216
+Cseq: 3398
+Cseq: 3948
+Cseq: 4543
+Cseq: 4580
+Cseq: 4640
+Cseq: 4960
+Cseq: 5718
+Cseq: 6754
+Cseq: 6774
+Cseq: 7273
+Cseq: 7826
+Cseq: 7864
+Cseq: 8013
+Cseq: 8674
+Cseq: 9143
+Cseq: 9798
 Ct1234!
 Ct123456!
 Ct@123
@@ -14650,6 +14673,7 @@ P@sssw0rd
 P@ssv0rd1
 P@ssw)rd
 P@ssw00rd
+P@ssw0rd  ~
 P@ssw0rd!!
 P@ssw0rd!11111
 P@ssw0rd!1234
@@ -17534,6 +17558,7 @@ Setup1
 Setup123123
 Setup12345!
 Setup123456!
+Setup@123
 Shadow!@#123
 Shadow1
 Shadow123!@#
@@ -17726,6 +17751,7 @@ Trekker12
 Trustno1
 Turkey1
 Twz$123
+U s e r
 U$er
 UPassword100
 US3R!
@@ -18271,6 +18297,7 @@ _nick_
 `1qazxsw2
 ````````
 `qaz1wsx
+a d m i n
 a!
 a!123456
 a!1234567
@@ -19253,6 +19280,17 @@ azerty
 azerty123#
 azerty123#$
 azsx44
+b'\x8b\xcb\xce'
+b'\x8c\x8e\x8e\x86\x8e\x86\x8c\x88'
+b'\x8f\x8f\x8f\x8f'
+b'\xc6\xd3\xd6\xda\xce\xd7\xdd'
+b'\xc8\xd7\xc4\xc6\xc8'
+b'\xcc\xd1\xd1\xca'
+b'\xcd\xd3\xdd\xdf\xda\xd3\xd7\xd0'
+b'\xd4\xc8\xdc\xc4\xda'
+b'\xdf\xd0\xca\xcd\xd2\xcf'
+b'\xe4\xca\xdb\x8b\x8c\x8f'
+b'\xf7\xee\xfd\xdf\xd3\xfe\xcd\xc9'
 b@12
 b@123
 b@12345
@@ -19861,6 +19899,7 @@ info@12
 intel
 internet!!1
 internet!1
+invite
 ip138
 isp123.com
 j1j2j3
@@ -22564,6 +22603,7 @@ service321
 services123
 serwer
 setu101k
+setup
 setup123
 setup1234!
 setup12345!
@@ -22789,6 +22829,7 @@ tvu123
 twnet@dmin
 tx20525
 txy123
+u s e r
 ubuntu!@#
 ubuntu.ubuntu.ubuntu
 ubuntu0
