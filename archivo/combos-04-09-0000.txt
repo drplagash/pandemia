@@ -394,7 +394,6 @@ administrator:123abc
 administrator:1q2w3e4r
 administrator:P@ssw0rd
 administrator:Passw0rd
-administrator:abc123
 administrator:adm
 administrator:admin
 administrator:admin123
@@ -718,7 +717,6 @@ deanthony:deanthony1
 deanthony:deanthony123
 deanthony:deanthony1234
 deanthony:deanthony12345
-debian:000000
 debian:111111
 debian:123
 debian:123123
