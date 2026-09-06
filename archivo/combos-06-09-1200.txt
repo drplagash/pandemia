@@ -1,5 +1,4 @@
 !!Huawei:@HuaweiHgw
-"??$: 1##'?"4
 "??$:#)#$5=
 "??$:#?<?;5)
 "??$:14=9>
@@ -263,7 +262,6 @@ admin:P@ssw0rd123
 admin:P@ssw0rd@123
 admin:PASSWORD
 admin:Password
-admin:Password@123
 admin:Qwerty1
 admin:SENHA
 admin:Senha
@@ -327,7 +325,6 @@ admin:adminroot
 admin:andrew
 admin:aquario
 admin:bayandsl
-admin:blockchain1!
 admin:c2@r0
 admin:cat1029
 admin:chzhdpl
@@ -349,45 +346,10 @@ admin:gw1admin
 admin:h@32LuyD
 admin:ho4uku6at
 admin:letmein
-admin:lounge
-admin:lovefeet
-admin:lovesexy
-admin:lowdown
-admin:machoman
-admin:mackenzie
-admin:magali
-admin:mammamia
 admin:manager
-admin:manana
-admin:mapet123456
-admin:marco1
-admin:maroon
-admin:masa
-admin:maymay
 admin:medicina
 admin:meinsm
-admin:melon
-admin:michael9
-admin:milenium
-admin:mill
-admin:mobbdeep
-admin:moonstar
-admin:mousepad
-admin:mousse
 admin:moxa
-admin:muff
-admin:mugwump
-admin:muller
-admin:muttley
-admin:nadegda
-admin:natha
-admin:ndirish
-admin:nevermor
-admin:newage
-admin:nexus
-admin:nfvfhf
-admin:niceday
-admin:nicki
 admin:nikitin
 admin:nikko
 admin:nitrox
@@ -441,7 +403,6 @@ admin:qwert12
 admin:qwerty
 admin:qwerty123
 admin:qwertyuiop
-admin:radius
 admin:railtel@123
 admin:ralphy
 admin:rand
@@ -641,7 +602,6 @@ appuser:123456
 appuser:appuser
 appuser:password
 appuser:root
-ari:ari
 ark:ark
 arm:arm
 armin:armin
@@ -686,13 +646,11 @@ benjamin:benjamin
 bernard:bernard
 besu:besu
 bin:bin
-binance:binance
 bitcoin:bitcoin
 bitnami:bitnami
 bitrix:bitrix
 bittensor:bittensor
 blackbox_exporter:blackbox_exporter
-blockchain:blockchain
 bob:123
 bob:1234
 bob:12345
@@ -779,9 +737,6 @@ cht:chtsgpon
 chyenne:chyenne
 chyenne:chyenne1
 cirros:cubswin:)
-cisco+ct511w4098h:C0stum3r_Un3
-cisco+ct511w4098h:RailTel@123
-cisco+ct511w4098h:tigo@123
 cisco:1234
 cisco:12345
 cisco:123456
@@ -924,12 +879,8 @@ debian:pa55word
 debian:password
 debian:qwerty
 debian:server
-debian:temppwd
 debian:toor
 deepseek:deepseek
-default:1
-default:1234
-default:OxhlwSG8
 default:default
 defi:defi
 deirdre:deirdre
@@ -948,7 +899,6 @@ delvin:delvin1
 delvin:delvin123
 delvin:delvin1234
 delvin:delvin12345
-demo:1234
 demo:123456
 demo:demo
 demo:demo123
@@ -1104,7 +1054,6 @@ elianna:elianna1234
 elianna:elianna12345
 elina:elina
 elrond:elrond
-elround:elround
 emmy:emmy
 emmy:emmy1
 emmy:emmy123
@@ -1163,7 +1112,6 @@ fernando:fernando
 finnegan:finnegan
 finnegan:finnegan1
 firedancer:firedancer
-firedancer:firedancer1!
 firedancer:firedancer123
 fivem:fivem
 flask:flask
@@ -1586,7 +1534,6 @@ mcserver:mc
 mcserver:mcserver
 media:media
 media:rock
-melnic:1qaz@WSX
 menu:menu
 mh:mh
 michael:michael
@@ -1604,8 +1551,6 @@ minecraft:mc
 minecraft:minecraft
 minecraft:pass123
 minecraft:password
-miner:miner
-miner:mmpOS
 minima:minima
 mohammad:mohammad
 monitor:monitor
@@ -1708,7 +1653,6 @@ odoo:odoo123
 odoo:p@ssw0rd
 odroid:odroid
 office:office
-okx:okx
 olga:olga
 ollama:ollama
 omm:omm
@@ -1995,7 +1939,6 @@ reth:reth
 reza:reza
 ripple:ripple
 roberto:1234
-robotin732:tNor6YrM2nq5
 rock:rock
 rocketpool:rocketpool
 rocky:1234
@@ -7443,7 +7386,6 @@ root:7pKghT
 root:7u
 root:7u8i9o0p
 root:7ujMko0admin
-root:7ujMko0admin123
 root:7ujMko0vizxv
 root:7ujm&UJM
 root:7ujm*IK<
@@ -16211,7 +16153,6 @@ root:Rp10fTr5W
 root:Rst_login..
 root:Rwerty1234
 root:S1a1j1d1
-root:S2
 root:S3cr3t
 root:S3cur1ty
 root:S3curity@123
@@ -19175,7 +19116,6 @@ root:boss.123
 root:br0ken
 root:bridge123
 root:broken123
-root:broker
 root:btc_123456
 root:buidanhviet@123
 root:builder
@@ -19542,7 +19482,6 @@ root:fff@123
 root:ffff-ffc0M456x
 root:fgh@123
 root:fi07
-root:fidel123
 root:finac@123
 root:finance@123
 root:fisio1
@@ -19818,7 +19757,6 @@ root:i@12
 root:i_x45<3
 root:ia8NU96NgHAcxvbO
 root:iant@123
-root:ibkr
 root:ibm-123
 root:ibm.123
 root:ibm123!@#
@@ -20165,7 +20103,6 @@ root:mbcrdpmlm1
 root:mbcrdpokp1
 root:mbcrdpwaw2
 root:mcjiubao520
-root:medion
 root:mehdi1820
 root:mhh123456
 root:micros
@@ -22191,7 +22128,6 @@ root:persian@server
 root:persianserver@123
 root:peute0815!
 root:pgidc.com
-root:pgj-heu05HQM=bMvz
 root:phuong12345
 root:phuong@1
 root:phuong@12345
@@ -23075,7 +23011,6 @@ root:range.00
 root:range.000
 root:range@321
 root:rasberry
-root:raspberry
 root:raven48
 root:rdp
 root:realtek
@@ -23376,7 +23311,6 @@ root:soft123
 root:softwar..1
 root:software!1
 root:sohu.com
-root:solana
 root:solana1!
 root:soleil
 root:songjian
@@ -23729,7 +23663,6 @@ root:v
 root:v0dk@123
 root:v0dka123
 root:v@1
-root:validator
 root:vcxzfdsarewq$#@!
 root:vertex25ektks123
 root:verwalter!.
@@ -24219,7 +24152,6 @@ root:zhouying
 root:zitian.cn
 root:zjhh@177288
 root:zlxx
-root:zlxx.
 root:zms!@#123
 root:zoe0620
 root:zonkonidc2180088
@@ -24490,7 +24422,6 @@ sftpuser:123
 sftpuser:sftpuser
 share:share
 sharon:sharon
-shell:sh
 shmuel:shmuel
 shoutchast:shoutchast
 silkworm:silkworm
@@ -24500,7 +24431,6 @@ sniper:sniper
 sniping:sniping
 software:software
 sol-docker:sol-docker
-sol123:sol123
 sol:123
 sol:1234
 sol:12345678
@@ -24509,7 +24439,6 @@ sol:sol
 sol:sol123
 sol:solana
 sol:test
-solana123:solana123
 solana:1234
 solana:Solana1!
 solana:postgres
@@ -24811,7 +24740,6 @@ ubuntu:admin123
 ubuntu:admin1234
 ubuntu:admin@123
 ubuntu:administrator
-ubuntu:blockchain1!
 ubuntu:digital
 ubuntu:lol123
 ubuntu:ollama
@@ -25248,7 +25176,6 @@ user:admin@2022
 user:admin@2024
 user:admin@2025
 user:admin@2026
-user:auto
 user:blog
 user:ghbdtn
 user:git
@@ -25527,7 +25454,6 @@ worker:worker
 worker:worker123
 wpyan:wpyan
 wso2:wso2
-www-data:www-data
 www:123456
 www:password
 www:www
