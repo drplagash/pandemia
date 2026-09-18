@@ -24,7 +24,6 @@ Admin:
 Admin:12345
 Admin:Admin
 AdminGPON:ALC
-AdminGPON:ALC#FGU
 Administrator:Administrator
 Administrator:Aerele2morrow?
 Administrator:Vision2
@@ -200,7 +199,6 @@ admin:7ujMko0admin
 admin:888888
 admin:88888888
 admin:9999
-admin:ADMIN
 admin:Admin123
 admin:Admin1234
 admin:Admin123456
@@ -287,12 +285,7 @@ admin:ducati99
 admin:egorova
 admin:epicrouter
 admin:fjbdfdjkdsfs541544
-admin:gangrel
 admin:ganteng
-admin:germany1
-admin:gfdkbr
-admin:ghblehrb
-admin:ghbrjkbcn
 admin:gpon
 admin:gpon@Vnt00
 admin:gw1admin
@@ -547,11 +540,6 @@ amir:1234
 amir:123456
 amir:amir
 amit:amit
-ammar:ammar
-ammar:ammar1
-ammar:ammar123
-ammar:ammar1234
-ammar:ammar12345
 ana:ana
 anders:anders
 anderson:123456
@@ -5129,11 +5117,6 @@ monitor:monitor@123
 montor:7777777
 moodle:moodle
 moonbeam:moonbeam
-morgen:morgen
-morgen:morgen1
-morgen:morgen123
-morgen:morgen1234
-morgen:morgen12345
 mostafa:mostafa
 mother:fucker
 mouser:mouser
@@ -5391,11 +5374,6 @@ pratik:pratik
 probe:
 professor:professor
 prometheus:prometheus
-promise:promise
-promise:promise1
-promise:promise123
-promise:promise1234
-promise:promise12345
 proradis:123456
 proxy:123321
 prueba:password123
@@ -5423,11 +5401,6 @@ qw:qw
 qwer:qwer
 radar:123456
 radar:radar
-rae:rae
-rae:rae1
-rae:rae123
-rae:rae1234
-rae:rae12345
 rahul:123456
 raisa:raisa
 rajesh:rajesh123
@@ -5446,11 +5419,6 @@ rdpuser:1234
 rdpuser:123456
 rdpuser:rdpuser
 readonlyuser:readonlyuser
-rebecka:rebecka
-rebecka:rebecka1
-rebecka:rebecka123
-rebecka:rebecka1234
-rebecka:rebecka12345
 recorder:recorder
 redhat:redhat
 redmine:admin123!@
@@ -6459,7 +6427,6 @@ root:123!@#qweQWE
 root:123#@!
 root:123$qweR
 root:123+abc
-root:123.321
 root:123.789+
 root:123.Com
 root:123.abc
@@ -10013,7 +9980,6 @@ root:741236985
 root:741741741
 root:741852963
 root:752883855.
-root:753951
 root:7539510
 root:753951753951
 root:7654321
@@ -15686,7 +15652,6 @@ root:qwerty123
 root:qwerty1234
 root:qwerty1234!
 root:qwerty12345
-root:qwerty123456
 root:qwerty666
 root:qwerty777
 root:qwerty_123456
@@ -15928,7 +15893,6 @@ root:root123456789
 root:root1234567890
 root:root123@
 root:root2024
-root:root2025
 root:root2026
 root:root2222
 root:root321
@@ -15968,8 +15932,6 @@ root:rootaccess
 root:rootadmin
 root:rootadmin123
 root:rootme
-root:rootpass
-root:rootpw
 root:rootroot
 root:ror
 root:roscoe
@@ -17618,11 +17580,6 @@ root:﻿00099
 roots:1234567
 rootws:rootws
 rosa:rosa
-rosalia:rosalia
-rosalia:rosalia1
-rosalia:rosalia123
-rosalia:rosalia1234
-rosalia:rosalia12345
 rosendo:rosendo
 rosendo:rosendo1
 rosendo:rosendo123
@@ -17691,11 +17648,6 @@ shardeum:shardeum
 share:share
 sharon:sharon
 sherry:sherry
-sheyenne:sheyenne
-sheyenne:sheyenne1
-sheyenne:sheyenne123
-sheyenne:sheyenne1234
-sheyenne:sheyenne12345
 shiloh:shiloh
 shiloh:shiloh1
 shiloh:shiloh123
@@ -17711,11 +17663,6 @@ shivam:shivam12345
 shiyusong:shiyusong
 shoufeitong:1234
 shred:shred
-siani:siani
-siani:siani1
-siani:siani123
-siani:siani1234
-siani:siani12345
 sierrah:sierrah
 sierrah:sierrah1
 sierrah:sierrah123
