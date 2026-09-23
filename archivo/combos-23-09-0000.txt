@@ -114,9 +114,6 @@ admin:0
 admin:0000
 admin:000000
 admin:051178
-admin:07051977
-admin:0711
-admin:07111978
 admin:090807
 admin:1
 admin:111
@@ -3933,13 +3930,7 @@ tomcat:tomcat
 ton:ton
 tonctrl:tonctrl
 tony:tony
-toor:ABC##123
-toor:Dell123
-toor:QWER!@#$1234
-toor:Qazws@123
 toor:admin123!@
-toor:qwe123
-toor:root12345
 toto:toto
 trade:123456
 trader:1234

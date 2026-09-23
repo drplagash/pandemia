@@ -126,7 +126,6 @@ odoo16
 opc
 potok
 tom
-toor
 vbox
 work
 aaa
@@ -403,6 +402,7 @@ steam2112.26.224.18
 superadmin
 telnetadmin
 tirex
+toor
 tylar
 tyren
 uploader

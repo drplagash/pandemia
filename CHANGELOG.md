@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-09-23 00:00 UTC
+
+- `usernames.txt`: 865 unique usernames
+- `plagayou.txt`: 3410 unique passwords
+- `combos.txt`: 5412 real `user:pass` pairs
+- Previous snapshot archived to `archivo/` (suffix -23-09-0000)
+
 ## 2026-09-22 12:00 UTC
 
 - `usernames.txt`: 865 unique usernames
