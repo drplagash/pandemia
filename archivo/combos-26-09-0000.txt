@@ -1,6 +1,5 @@
 !!Huawei:@HuaweiHgw
 "??$: "9&1$5
-"??$:$#7?9>7?>
 %#5":%#5"
 *1:$4
 000000:admin
@@ -79,7 +78,6 @@ abygail:abygail12345
 actian:actian
 adam:password
 adm1n:adm1n
-admian:admin
 admin1234:admin1234
 admin1234:root
 admin123:admin123
@@ -181,7 +179,6 @@ admin:07051977
 admin:0711
 admin:07111978
 admin:090807
-admin:0l0ctyQh243O63uD
 admin:1
 admin:111
 admin:1111
@@ -231,7 +228,6 @@ admin:Admin123
 admin:Admin1234
 admin:Admin123456
 admin:Admin@123
-admin:Admin@1234
 admin:Administrator
 admin:BrAhMoS@15
 admin:CTLSupport12
@@ -274,7 +270,6 @@ admin:adminadmin
 admin:adminpass
 admin:adminroot
 admin:aerohive
-admin:andrew
 admin:aquario
 admin:bayandsl
 admin:beardropper
@@ -322,7 +317,6 @@ admin:rahasia
 admin:root
 admin:root123
 admin:smcadmin
-admin:trustix
 admin:ttcn@77CN
 admin:ubuntu@123
 admin:user
@@ -452,16 +446,6 @@ appuser:123456
 appuser:appuser
 appuser:password
 appuser:root
-arika:arika
-arika:arika1
-arika:arika123
-arika:arika1234
-arika:arika12345
-ariyanna:ariyanna
-ariyanna:ariyanna1
-ariyanna:ariyanna123
-ariyanna:ariyanna1234
-ariyanna:ariyanna12345
 ark:ark
 arm:arm
 arma3server:arma3server
@@ -474,7 +458,6 @@ asiainfo:asiainfo
 astra:astra
 audi:audi
 auto:auto
-auto:lifesize
 avalanche:avalanche
 avax:avax
 azureuser:12345
@@ -490,13 +473,11 @@ backup:12345678
 backup:backup
 backup:password
 beam:beam
-belkinstyle:72ca06
 ben:ben
 benjamin:benjamin
 benoit:benoit
 bernard:bernard
 bill:bill
-bin:bin
 bitnami:bitnami
 bitrix:bitrix
 bitrix:master
@@ -524,24 +505,13 @@ braelyn:braelyn123
 braelyn:braelyn1234
 braelyn:braelyn12345
 brenda:brenda
-briauna:briauna
-briauna:briauna1
-briauna:briauna123
-briauna:briauna1234
-briauna:briauna12345
 broker:broker
-bronwyn:bronwyn
-bronwyn:bronwyn1
-bronwyn:bronwyn123
-bronwyn:bronwyn1234
-bronwyn:bronwyn12345
 brookelynn:brookelynn
 brookelynn:brookelynn1
 brookelynn:brookelynn123
 brookelynn:brookelynn1234
 brookelynn:brookelynn12345
 btc:btc
-btf:321start
 budda:QWE+df1df
 bundle:bundle
 cacti:cacti
@@ -558,7 +528,6 @@ centos:123456
 centos:centos
 centreon:centreon
 ceph:ceph
-cf1c22:cf1c22
 chengy:chengy
 chenxi:123456
 cheryl:cheryl
@@ -622,11 +591,6 @@ cyber:cyber
 cyrus:cyrus
 d:d
 daemon:123456
-danasia:danasia
-danasia:danasia1
-danasia:danasia123
-danasia:danasia1234
-danasia:danasia12345
 dani:dani
 daniel:12345678
 daniel:daniel
@@ -764,11 +728,6 @@ elasticsearch:elasticsearch123
 elasticsearch:elasticsearch@1234
 elina:elina
 elrond:elrond
-elvia:elvia
-elvia:elvia1
-elvia:elvia123
-elvia:elvia1234
-elvia:elvia12345
 enable:linuxshell
 enable:root
 erp:erp@321
@@ -792,11 +751,6 @@ factorio:factorio
 fahmi:fahmi
 fake:fake
 fanshu:fanshu
-fantasia:fantasia
-fantasia:fantasia1
-fantasia:fantasia123
-fantasia:fantasia1234
-fantasia:fantasia12345
 farmacia:farmacia
 fastuser:12345678
 fastuser:123456789
@@ -845,7 +799,6 @@ ftpuser:12345
 ftpuser:123456
 ftpuser:12345678
 ftpuser:123456789
-ftpuser:asteriskftp
 ftpuser:ftp
 ftpuser:ftppass
 ftpuser:ftpuser
@@ -879,11 +832,6 @@ gitlab:gitlab
 gitlab:root
 gituser:123456
 gix:gix
-gizelle:gizelle
-gizelle:gizelle1
-gizelle:gizelle123
-gizelle:gizelle1234
-gizelle:gizelle12345
 gk:gk123
 gmod:gmod
 gns3:gns3
@@ -894,7 +842,6 @@ gpon:gpon
 grader:grader
 green:green
 grid:grid
-guest1:guest1
 guest:
 guest:111111
 guest:123
@@ -919,7 +866,6 @@ harmony:harmony
 hduser:hduser
 headscale:123456
 helon:helon
-helpdesk:helpdesk
 hermes:hermes
 hikvision:hikvision
 homeassistant:123456
@@ -945,7 +891,6 @@ info:password
 init:init
 initial:initial
 installer:12345
-installer:installer
 intranet:intranet
 iphone:iphone
 iptv:iptv
@@ -980,10 +925,8 @@ jenkins:jenkins@123
 jhf:jhf
 joe:joe
 joel:joel
-joggler:joggler
 john:123456
 john:john
-joro:joro
 jpg:123456
 juantech:admin
 justin:justin
@@ -1056,7 +999,6 @@ leopoldo:leopoldo123
 leopoldo:leopoldo1234
 leopoldo:leopoldo12345
 letv:service
-library:library
 lighthouse:lighthouse
 lin:123456
 linux123:root
@@ -1100,7 +1042,6 @@ master:123456
 master:master
 master:passwd
 master:qwerty
-matrix:matrix
 matt:matt
 maud:maud
 mc:mc
@@ -1173,7 +1114,6 @@ nadir:malika
 nagios:nagios123
 nana:123
 netscreen:netscreen
-newadmin:newadmin
 newuser:123
 newuser:123456
 newuser:newuser
@@ -1182,7 +1122,6 @@ nexus:pi
 nginx:nginx
 nginx:toor
 niaoyun:123456
-nikita:nikita
 nina:nina
 nitin:nitin
 njupt078:Huawei@123
@@ -1223,7 +1162,6 @@ odoo:odoo123
 odoo:p@ssw0rd
 odroid:odroid
 office:1234
-office:office
 olga:olga
 omm:omm
 onkar:onkar123
@@ -1318,7 +1256,6 @@ probe:
 professor:professor
 prueba:prueba
 pruebas:pruebas
-psybnc:psybnc
 public:123
 python:123456
 pz:pz
@@ -3855,7 +3792,6 @@ root:9ol.0p;/
 root:=
 root:?????
 root:??????
-root:@
 root:@123456789
 root:@@
 root:@@@@
@@ -5648,7 +5584,6 @@ root:aA147258369
 root:aA@123456
 root:aA@1234567
 root:aBC123
-root:aDm8H%MdA
 root:aDmIn01
 root:aDmIn123
 root:aDmIn321
@@ -8105,7 +8040,6 @@ root:hp123!@#
 root:hp123.
 root:hp@123
 root:hp@1234
-root:htpcguides
 root:http
 root:htubcnhfwbz
 root:huachen1258zz
@@ -8211,7 +8145,6 @@ root:intissar
 root:intrepid
 root:inzaghi
 root:iomega
-root:ipscan
 root:ipswich
 root:irinka
 root:irishka
@@ -10794,7 +10727,6 @@ root:stephe
 root:sterlin
 root:sterva
 root:stessy
-root:stfu_and_be_quite
 root:stick
 root:stickman
 root:sticks
@@ -11674,7 +11606,6 @@ root:zippy
 root:zizi
 root:zlatan
 root:zlxx
-root:zlxx.
 root:zms!@#123
 root:zoloto
 root:zong
@@ -11812,7 +11743,6 @@ spark:spark
 splunk:password
 splunk:splunk
 squid:squid
-sshd:sshd
 sss:sss
 steam2112.26.224.18:steam2112.26.224.181234
 steam:1
@@ -11852,10 +11782,8 @@ support:user
 swetha:swetha@123
 sxl:sxl1234
 sybase:sybase
-sync:click1
 synology:admin
 sysadmin:123456
-system:OkwKcECs8qJP2Z
 system:admin
 system:budda279056
 system:sh
@@ -11929,7 +11857,6 @@ testuser:test
 testuser:test123
 testuser:testuser
 tfj:tfj
-thomas:thomas
 timely:timely
 tirex:tirex
 tmadmin:tmadmin
