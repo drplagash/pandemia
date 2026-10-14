@@ -2,9 +2,11 @@
 
 ![pandemia](banner.png)
 
+> **⚠️ Outdated project.** The pipeline that regenerates these dictionaries has been offline since its last run on **2026-09-29**. Everything here is a frozen snapshot, not a live feed — don't treat the counts or the "most-attempted first" ordering as current until regular updates resume.
+
 Real-world credential dictionaries, captured live from a controlled honeypot environment ([Oráculo SOC](https://github.com/drplagash)). No synthetic data, no scraped lists — every entry here was actually typed by a real attacker against a real (emulated) service.
 
-Updated automatically, every 12 hours.
+Updated automatically, every 12 hours (see the notice above — currently paused).
 
 ## What's in here
 
